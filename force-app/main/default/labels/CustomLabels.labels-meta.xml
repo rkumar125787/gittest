@@ -7,4 +7,18 @@
         <shortDescription>MyLabels</shortDescription>
         <value>Test1</value>
     </labels>
+    <labels>
+        <fullName>MyLabels1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>MyLabels1</shortDescription>
+        <value>Test1</value>
+    </labels>
+     <labels>
+        <fullName>MyLabels2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>MyLabels2</shortDescription>
+        <value>Test1</value>
+    </labels>
 </CustomLabels>
